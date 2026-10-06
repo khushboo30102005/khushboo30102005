@@ -1,6 +1,6 @@
 # Hi, I'm Khushboo 👋
 
-### AI Engineer Intern | Full Stack Developer | AI/ML Enthusiast
+### AI Engineer | Full Stack Developer | AI/ML Enthusiast
 
 I'm an MCA student and developer focused on building practical web applications and exploring **Artificial Intelligence, Generative AI, and backend development**.
 
